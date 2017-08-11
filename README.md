@@ -1,0 +1,2 @@
+# MyRepository
+Just new repository
